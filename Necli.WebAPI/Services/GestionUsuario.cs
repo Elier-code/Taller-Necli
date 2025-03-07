@@ -16,7 +16,7 @@ namespace Necli.WebAPI.Services
         public Usuario Consultar(string telefono)
         {
 
-            return Usuarios.FirstOrDefault(x => x.Telefono.Equals(telefono));
+            return Usuarios.FirstOrDefault(x => x.Telefono.Equals(telefono))!;
         }
 
         public bool Borra(string telefono)

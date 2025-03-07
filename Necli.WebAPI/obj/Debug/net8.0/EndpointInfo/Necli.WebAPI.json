@@ -5,6 +5,37 @@
     "version": "1.0"
   },
   "paths": {
+    "/api/Transaccion": {
+      "post": {
+        "tags": [
+          "Transaccion"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TransaccionRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TransaccionRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/TransaccionRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/Usuario": {
       "post": {
         "tags": [
@@ -186,10 +217,39 @@
   },
   "components": {
     "schemas": {
+      "TransaccionRequest": {
+        "required": [
+          "numeroCuentaDestino",
+          "numeroCuentaOrigen",
+          "tipo"
+        ],
+        "type": "object",
+        "properties": {
+          "numeroCuentaOrigen": {
+            "type": "string",
+            "nullable": true
+          },
+          "numeroCuentaDestino": {
+            "type": "string",
+            "nullable": true
+          },
+          "monto": {
+            "type": "number",
+            "format": "double"
+          },
+          "tipo": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
       "Usuario": {
         "required": [
           "apellido",
-          "nombre"
+          "email",
+          "nombre",
+          "telefono"
         ],
         "type": "object",
         "properties": {

@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "D:\\elier\\Documents\\Web 2\\Necli\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D25F445-D3A0-47AD-8C9D-10D4C3F057D5}|Necli.WebAPI\\Necli.WebAPI.csproj|d:\\elier\\documents\\web 2\\necli\\necli.webapi\\services\\gestionusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D25F445-D3A0-47AD-8C9D-10D4C3F057D5}|Necli.WebAPI\\Necli.WebAPI.csproj|solutionrelative:necli.webapi\\services\\gestionusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D25F445-D3A0-47AD-8C9D-10D4C3F057D5}|Necli.WebAPI\\Necli.WebAPI.csproj|d:\\elier\\documents\\web 2\\necli\\necli.webapi\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D25F445-D3A0-47AD-8C9D-10D4C3F057D5}|Necli.WebAPI\\Necli.WebAPI.csproj|solutionrelative:necli.webapi\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D25F445-D3A0-47AD-8C9D-10D4C3F057D5}|Necli.WebAPI\\Necli.WebAPI.csproj|d:\\elier\\documents\\web 2\\necli\\necli.webapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D25F445-D3A0-47AD-8C9D-10D4C3F057D5}|Necli.WebAPI\\Necli.WebAPI.csproj|solutionrelative:necli.webapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D25F445-D3A0-47AD-8C9D-10D4C3F057D5}|Necli.WebAPI\\Necli.WebAPI.csproj|d:\\elier\\documents\\web 2\\necli\\necli.webapi\\services\\gestionusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D25F445-D3A0-47AD-8C9D-10D4C3F057D5}|Necli.WebAPI\\Necli.WebAPI.csproj|solutionrelative:necli.webapi\\services\\gestionusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3D25F445-D3A0-47AD-8C9D-10D4C3F057D5}|Necli.WebAPI\\Necli.WebAPI.csproj|d:\\elier\\documents\\web 2\\necli\\necli.webapi\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D25F445-D3A0-47AD-8C9D-10D4C3F057D5}|Necli.WebAPI\\Necli.WebAPI.csproj|solutionrelative:necli.webapi\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D25F445-D3A0-47AD-8C9D-10D4C3F057D5}|Necli.WebAPI\\Necli.WebAPI.csproj|d:\\elier\\documents\\web 2\\necli\\necli.webapi\\necli.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3D25F445-D3A0-47AD-8C9D-10D4C3F057D5}|Necli.WebAPI\\Necli.WebAPI.csproj|solutionrelative:necli.webapi\\necli.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{3D25F445-D3A0-47AD-8C9D-10D4C3F057D5}|Necli.WebAPI\\Necli.WebAPI.csproj|d:\\elier\\documents\\web 2\\necli\\necli.webapi\\services\\transaccionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D25F445-D3A0-47AD-8C9D-10D4C3F057D5}|Necli.WebAPI\\Necli.WebAPI.csproj|solutionrelative:necli.webapi\\services\\transaccionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3D25F445-D3A0-47AD-8C9D-10D4C3F057D5}|Necli.WebAPI\\Necli.WebAPI.csproj|d:\\elier\\documents\\web 2\\necli\\necli.webapi\\entities\\transaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D25F445-D3A0-47AD-8C9D-10D4C3F057D5}|Necli.WebAPI\\Necli.WebAPI.csproj|solutionrelative:necli.webapi\\entities\\transaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D25F445-D3A0-47AD-8C9D-10D4C3F057D5}|Necli.WebAPI\\Necli.WebAPI.csproj|d:\\elier\\documents\\web 2\\necli\\necli.webapi\\controllers\\transaccioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D25F445-D3A0-47AD-8C9D-10D4C3F057D5}|Necli.WebAPI\\Necli.WebAPI.csproj|solutionrelative:necli.webapi\\controllers\\transaccioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D25F445-D3A0-47AD-8C9D-10D4C3F057D5}|Necli.WebAPI\\Necli.WebAPI.csproj|d:\\elier\\documents\\web 2\\necli\\necli.webapi\\services\\gestiontransaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D25F445-D3A0-47AD-8C9D-10D4C3F057D5}|Necli.WebAPI\\Necli.WebAPI.csproj|solutionrelative:necli.webapi\\services\\gestiontransaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D25F445-D3A0-47AD-8C9D-10D4C3F057D5}|Necli.WebAPI\\Necli.WebAPI.csproj|d:\\elier\\documents\\web 2\\necli\\necli.webapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D25F445-D3A0-47AD-8C9D-10D4C3F057D5}|Necli.WebAPI\\Necli.WebAPI.csproj|solutionrelative:necli.webapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,38 +47,90 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "D:\\elier\\Documents\\Web 2\\Necli\\Necli.WebAPI\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "Necli.WebAPI\\Services\\UsuarioService.cs",
+              "ToolTip": "D:\\elier\\Documents\\Web 2\\Necli\\Necli.WebAPI\\Services\\UsuarioService.cs*",
+              "RelativeToolTip": "Necli.WebAPI\\Services\\UsuarioService.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwBoAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T03:41:03.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransaccionRequest.cs",
+              "DocumentMoniker": "D:\\elier\\Documents\\Web 2\\Necli\\Necli.WebAPI\\Services\\TransaccionRequest.cs",
+              "RelativeDocumentMoniker": "Necli.WebAPI\\Services\\TransaccionRequest.cs",
+              "ToolTip": "D:\\elier\\Documents\\Web 2\\Necli\\Necli.WebAPI\\Services\\TransaccionRequest.cs*",
+              "RelativeToolTip": "Necli.WebAPI\\Services\\TransaccionRequest.cs*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T03:37:16.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransaccionController.cs",
+              "DocumentMoniker": "D:\\elier\\Documents\\Web 2\\Necli\\Necli.WebAPI\\Controllers\\TransaccionController.cs",
+              "RelativeDocumentMoniker": "Necli.WebAPI\\Controllers\\TransaccionController.cs",
+              "ToolTip": "D:\\elier\\Documents\\Web 2\\Necli\\Necli.WebAPI\\Controllers\\TransaccionController.cs",
+              "RelativeToolTip": "Necli.WebAPI\\Controllers\\TransaccionController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAowBEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T02:25:30.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GestionTransaccion.cs",
+              "DocumentMoniker": "D:\\elier\\Documents\\Web 2\\Necli\\Necli.WebAPI\\Services\\GestionTransaccion.cs",
+              "RelativeDocumentMoniker": "Necli.WebAPI\\Services\\GestionTransaccion.cs",
+              "ToolTip": "D:\\elier\\Documents\\Web 2\\Necli\\Necli.WebAPI\\Services\\GestionTransaccion.cs",
+              "RelativeToolTip": "Necli.WebAPI\\Services\\GestionTransaccion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T12:51:30.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "GestionUsuario.cs",
               "DocumentMoniker": "D:\\elier\\Documents\\Web 2\\Necli\\Necli.WebAPI\\Services\\GestionUsuario.cs",
               "RelativeDocumentMoniker": "Necli.WebAPI\\Services\\GestionUsuario.cs",
               "ToolTip": "D:\\elier\\Documents\\Web 2\\Necli\\Necli.WebAPI\\Services\\GestionUsuario.cs*",
               "RelativeToolTip": "Necli.WebAPI\\Services\\GestionUsuario.cs*",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAYwCEAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBIAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T11:52:28.923Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Necli.WebAPI",
-              "DocumentMoniker": "D:\\elier\\Documents\\Web 2\\Necli\\Necli.WebAPI\\Necli.WebAPI.csproj",
-              "RelativeDocumentMoniker": "Necli.WebAPI\\Necli.WebAPI.csproj",
-              "ToolTip": "D:\\elier\\Documents\\Web 2\\Necli\\Necli.WebAPI\\Necli.WebAPI.csproj",
-              "RelativeToolTip": "Necli.WebAPI\\Necli.WebAPI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-05T11:39:56.337Z",
+              "DocumentIndex": 2,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "D:\\elier\\Documents\\Web 2\\Necli\\Necli.WebAPI\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "Necli.WebAPI\\Entities\\Usuario.cs",
+              "ToolTip": "D:\\elier\\Documents\\Web 2\\Necli\\Necli.WebAPI\\Entities\\Usuario.cs*",
+              "RelativeToolTip": "Necli.WebAPI\\Entities\\Usuario.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T11:26:59.987Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "UsuarioController.cs",
               "DocumentMoniker": "D:\\elier\\Documents\\Web 2\\Necli\\Necli.WebAPI\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "Necli.WebAPI\\Controllers\\UsuarioController.cs",
               "ToolTip": "D:\\elier\\Documents\\Web 2\\Necli\\Necli.WebAPI\\Controllers\\UsuarioController.cs",
               "RelativeToolTip": "Necli.WebAPI\\Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAowDEAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwA4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T11:40:31.588Z",
               "EditorCaption": ""
@@ -77,24 +141,11 @@
               "Title": "Transaccion.cs",
               "DocumentMoniker": "D:\\elier\\Documents\\Web 2\\Necli\\Necli.WebAPI\\Entities\\Transaccion.cs",
               "RelativeDocumentMoniker": "Necli.WebAPI\\Entities\\Transaccion.cs",
-              "ToolTip": "D:\\elier\\Documents\\Web 2\\Necli\\Necli.WebAPI\\Entities\\Transaccion.cs",
-              "RelativeToolTip": "Necli.WebAPI\\Entities\\Transaccion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "ToolTip": "D:\\elier\\Documents\\Web 2\\Necli\\Necli.WebAPI\\Entities\\Transaccion.cs*",
+              "RelativeToolTip": "Necli.WebAPI\\Entities\\Transaccion.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA0wAkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T11:27:41.381Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "D:\\elier\\Documents\\Web 2\\Necli\\Necli.WebAPI\\Entities\\Usuario.cs",
-              "RelativeDocumentMoniker": "Necli.WebAPI\\Entities\\Usuario.cs",
-              "ToolTip": "D:\\elier\\Documents\\Web 2\\Necli\\Necli.WebAPI\\Entities\\Usuario.cs",
-              "RelativeToolTip": "Necli.WebAPI\\Entities\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T11:26:59.987Z",
               "EditorCaption": ""
             }
           ]

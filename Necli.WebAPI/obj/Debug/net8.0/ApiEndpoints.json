@@ -1,5 +1,21 @@
 [
   {
+    "ContainingType": "Necli.WebAPI.Controllers.TransaccionController",
+    "Method": "RealizarTransaccion",
+    "RelativePath": "api/Transaccion",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Necli.WebAPI.Services.TransaccionRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Necli.WebAPI.Controllers.UsuarioController",
     "Method": "CrearUsuario",
     "RelativePath": "api/Usuario",

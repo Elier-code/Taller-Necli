@@ -34,3 +34,4 @@ D:\elier\Documents\Web 2\Necli\Necli.WebAPI\obj\Debug\net8.0\refint\Necli.WebAPI
 D:\elier\Documents\Web 2\Necli\Necli.WebAPI\obj\Debug\net8.0\Necli.WebAPI.pdb
 D:\elier\Documents\Web 2\Necli\Necli.WebAPI\obj\Debug\net8.0\Necli.WebAPI.genruntimeconfig.cache
 D:\elier\Documents\Web 2\Necli\Necli.WebAPI\obj\Debug\net8.0\ref\Necli.WebAPI.dll
+D:\elier\Documents\Web 2\Necli\Necli.WebAPI\obj\Debug\net8.0\Necli.WebAPI.sourcelink.json
